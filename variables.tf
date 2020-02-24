@@ -13,5 +13,5 @@ variable "int_port" {
 }
 variable "ext_port" {
   description = "External port for container."
-  default     = "80"
+  default     = "81"
 }
